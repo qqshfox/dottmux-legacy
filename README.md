@@ -11,6 +11,12 @@ make install
 tmux
 ```
 
+Dependencies
+------------
+
+* tmux 1.6
+* iTunes on Mac OS X Lion (Optional)
+
 Screenshots
 -----------
 
